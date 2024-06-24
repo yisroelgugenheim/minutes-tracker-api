@@ -68,6 +68,8 @@ Copy code:<br>
 ## Known Issues
 - There may be an issue with date handling due to timezone discrepancies that may affect how<br> dates are displayed. Further testing is needed.<br>
 
+Feel free to submit a pull request.<br>
+Your support is greatly appreciated!
 
-For help and support, contact yisgug@gmail.com. <br>
+For help, contact yisgug@gmail.com. <br>
 
